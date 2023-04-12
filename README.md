@@ -6,10 +6,4 @@ Project: Real estate app:
 -Map view,
 -live chat, recomandations, advertisment.
 
-or
-
-Project: Fitness tracking app: 
--An application that helps users track their fitness goals and progress. 
--Users could create profiles that include height, weight, age, and fitness level.
--Authenticate to access personalized workout plans
--Progress tracking.
+Figma Design: https://www.figma.com/file/KJ8aGz0fLnkBmM4xaHP6MS/Real-estate?node-id=0%3A1&t=5j9zWdNixZZU4qlp-1
